@@ -1,7 +1,7 @@
 {
   "name": "showdown-admonitionblock",
   "version": "1.0.1",
-  "description": "",
+  "description": "Showdown Extension for Admonition-Block",
   "main": "dist/index.js",
   "types": "./dist/index.d.ts",
   "type": "module",
@@ -14,6 +14,10 @@
     "NOTE|TIP|WARNING|IMPORTANT",
     "Admonition-Block"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phothinmg/showdown-admonitionBlock.git"
+  },
   "author": "Pho Thin Maung",
   "license": "Apache-2.0",
   "devDependencies": {

@@ -46,4 +46,6 @@ const converter = new Showdown.Converter({
 
 *Output*
 
-![ss](./public/ss.png)
+![ss](https://raw.githubusercontent.com/phothinmg/showdown-admonitionBlock/main/public/ss.png)
+
+---

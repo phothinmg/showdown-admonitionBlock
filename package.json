@@ -1,6 +1,6 @@
 {
   "name": "showdown-admonitionblock",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Showdown Extension for Admonition-Block",
   "main": "dist/index.js",
   "types": "./dist/index.d.ts",
